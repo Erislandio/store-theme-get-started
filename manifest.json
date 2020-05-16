@@ -1,12 +1,13 @@
 {
-  "vendor": "vtex",
-  "name": "store-theme",
-  "version": "3.36.0",
+  "vendor": "dzarm",
+  "name": "dzarm-theme",
+  "version": "0.1.0",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
     "sitemap": "0.x",
-    "docs": "0.x"
+    "docs": "0.x",
+    "react": "3.x"
   },
   "mustUpdateAt": "2018-09-05",
   "scripts": {
